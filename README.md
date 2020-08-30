@@ -19,22 +19,22 @@
 > Web scraping is also used for illegal purposes, including the undercutting of prices and the theft of copyrighted content. 
 
 ### Installation
-**Open a terminal  **
+** Open a terminal  **
 
-**Setup the pip package manager **
-**Install the virtualenv package  ---**
->pip install virtualenv
-**Create the virtual environment --**
->virtualenv mypython
-**Activate the virtual environment --**
->mypthon\Scripts\activate
+** Setup the pip package manager **
+** Install the virtualenv package  ---**
+> pip install virtualenv
+** Create the virtual environment --(taking virtualenvname=mypython)**
+> virtualenv mypython
+** Activate the virtual environment --**
+> mypthon\Scripts\activate
 ** To decativate the virtual environment and use your original**
-**Python environment, simply type ‘deactivate’ **
-**Deactivate the virtual environment  --**
->deactivate
+** Python environment, simply type ‘deactivate’ **
+** Deactivate the virtual environment  --**
+> deactivate
 
-**CHECK **
+** CHECK **
 >pip check selenium
- **if there "No broken requirements found."**
+ ** if there "No broken requirements found."**
  **then the selenium package is successfully installed**
 
