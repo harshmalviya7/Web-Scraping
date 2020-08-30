@@ -44,6 +44,10 @@
 
 > deactivate
 
+**Installing selenium**
+
+> pip install selenium
+
 **CHECK**
 
 >pip check selenium
@@ -51,4 +55,12 @@
 **if there "No broken requirements found."**
 
 **then the selenium package is successfully installed**
+
+**download the chromedriver from the link compatible to the version of your google chrome version installed**
+
+[download](https://chromedriver.chromium.org/downloads)
+
+You can check version of Chrome in -settings/About Chrome 
+
+
 
