@@ -17,3 +17,24 @@
 ![alt text](https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/web-scraping-attack.jpg)
 
 > Web scraping is also used for illegal purposes, including the undercutting of prices and the theft of copyrighted content. 
+
+### Installation
+**Open a terminal  
+
+**Setup the pip package manager
+**Install the virtualenv package  ---
+>pip install virtualenv
+**Create the virtual environment --
+>virtualenv mypython
+**Activate the virtual environment --
+>mypthon\Scripts\activate
+** To decativate the virtual environment and use your original 
+**Python environment, simply type ‘deactivate’ **
+**Deactivate the virtual environment  --
+>deactivate
+
+**CHECK 
+>pip check selenium
+ if there "No broken requirements found."
+ then the selenium package is successfully installed
+
