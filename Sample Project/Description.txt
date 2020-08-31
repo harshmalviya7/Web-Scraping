@@ -1,0 +1,11 @@
+1. Create a test for Google Search
+
+2. Add implicit wait of 10 sec (for the browser to load things)
+
+3. Maximise window
+
+4. Create Unit Tests
+
+5. Add HTML reporting library
+
+6. Run from command line 
